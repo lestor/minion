@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/minion",
+	"name":        "lestor/minion",
 	"type":        "kohana-module",
 	"description": "The official kohana module for running tasks via the CLI.",
 	"homepage":    "http://kohanaframework.org",
